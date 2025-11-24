@@ -15,17 +15,6 @@
 
     defined('ABSPATH') || exit;
 
-    // Activation and deactivation hooks
-    function tutor_bkash_plugin_activation() {
-        TutorBkash\RewriteRules::custom_rewrite_rule();
-        flush_rewrite_rules();
-    }
-    register_activation_hook(__FILE__, 'tutor_bkash_plugin_activation');
-
-    function tutor_bkash_plugin_deactivation() {
-        flush_rewrite_rules();
-    }
-    register_deactivation_hook(__FILE__, 'tutor_bkash_plugin_deactivation');
 
     /**
      * Main Plugin Class

@@ -213,7 +213,6 @@ Contributions for additional language translations are welcome!
 ## Support
 
 For issues related to:
-- **Plugin functionality**: Contact [plugin developer](mailto:asmsaif15@gmail.com)
 - **bKash API**: Contact [support@bkash.com](mailto:support@bkash.com) or [developer@bkash.com](mailto:developer@bkash.com)
 - **Tutor LMS**: Contact [Themeum support](https://tutorlms.com/support)
 
@@ -223,7 +222,7 @@ This plugin is licensed under GPLv2 or later.
 
 ## Credits
 
-- Developed by S. Saif
+- Developed by Arman
 - bKash Tokenized API integration
 - Based on [Tutor LMS Custom Payment Gateway Framework](https://docs.themeum.com/tutor-lms/developer-documentation/custom-payment-gateways)
 
